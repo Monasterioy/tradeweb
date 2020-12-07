@@ -1,18 +1,14 @@
-# epayco
+# Trade
 
 ## Build Setup
 
 ```bash
 # instalar dependencias
-$ npm install
+  Para instalar las dependencias del proyecto ejecute npm install en el terminal
 
-# copiar crear .env y copiar variables del .env.example
+# Configuracion
+  Para configurar los puertos de conexion con la api copie el archivo example.env y peguelo renombrando a .env
 
 # correr proyecto
-$ npm run dev
+  Una vez hecho lo anterior solo queda ejecutar en el terminar el comando npm run dev y ya podra acceder al proyecto mediante localhost:3000
 
-# una vez el proyecto corriendo y colocando las variables del .env el puerto sera localhost:3000
-
-```
-
-# tradeweb
